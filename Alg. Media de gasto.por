@@ -15,6 +15,6 @@ programa {
       media_gasto = (mes1 + mes2 + mes3) /3  
 
     //Saída de Dados.
-      escreva("Então sua média de gasto desses meses fo de:" , media_gasto)
+      escreva("Logo, sua média de gasto desses meses foi de:" , media_gasto)
       }
 }
