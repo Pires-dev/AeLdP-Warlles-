@@ -20,7 +20,7 @@ programa {
   //Processsamento.
      media_A = (n1+n2+n3+n4)/4
   //Saída de Dados.
-    escreva ("Então sua média de notas é:" , media_A)
+    escreva ("Logo, sua média é:" , media_A)
 
   }
 }
