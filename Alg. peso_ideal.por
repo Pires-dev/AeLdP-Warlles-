@@ -13,7 +13,7 @@ programa {
   leia (altura)
 
 // Processamento.
-  peso_ideal = (K * altura)-B
+  peso_ideal = (K * altura) - B
 
 // Saída de Dados.
   escreva ("Seu peso ideal, de acordo com sua altura, é:" , peso_ideal) 
